@@ -1,2 +1,2 @@
 # Netflix-Page
-simple Netflix page  using html, css, js programing language 
+simple Netflix page  using html, css, programing language 
